@@ -1,5 +1,7 @@
 # Riveted Steel Joint Tensile Test
 
+![Comparison of butt-splice joint failures](riveted-joint-project.jpg)
+
 ## Project Overview
 
 This project investigated the tensile strength and failure behavior of riveted steel joints. Two joint configurations—a **lap splice** and a **butt splice**—were loaded in tension until failure.
