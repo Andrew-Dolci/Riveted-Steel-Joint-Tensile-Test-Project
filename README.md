@@ -1,6 +1,6 @@
 # Riveted Steel Joint Tensile Test
 
-![Comparison of butt-splice joint failures](riveted-joint-project.jpg)
+![Comparison of butt-splice joint failures](Riveted-Joint-Project.JPG)
 
 ## Project Overview
 
